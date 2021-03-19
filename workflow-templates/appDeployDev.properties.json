@@ -1,0 +1,11 @@
+{
+    "name": "Development Deployment for Apps to AWS Workflow",
+    "description": "Development Deployment to AWS for Graasp apps workflow template.",
+    "iconName": "graasp-logo",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}

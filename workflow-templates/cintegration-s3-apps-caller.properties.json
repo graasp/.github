@@ -1,6 +1,6 @@
 {
   "name": "CI Workflow for S3-apps deployments",
-  "description": "Build, test and push a package to Amazon S3 and deploy to CloudFront development environment.",
+  "description": "Build, test and push an app to Amazon S3 and deploy to CloudFront development environment.",
   "iconName": "graasp-logo",
   "categories": [
     "Automation", "Deployment", "Continuous integration"

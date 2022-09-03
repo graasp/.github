@@ -1,0 +1,11 @@
+{
+  "name": "Cypress CI Workflow",
+  "description": "Perform Cypress unitary tests on React applications.",
+  "iconName": "graasp-logo",
+  "categories": [
+    "Automation", "Deployment", "Continuous integration"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}

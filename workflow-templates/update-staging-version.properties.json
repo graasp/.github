@@ -1,0 +1,8 @@
+{
+  "name": "Update staging version Workflow",
+  "description": "Push new tag to graasp-deploy repository.",
+  "iconName": "graasp-logo",
+  "categories": [
+      "Automation"
+  ]
+}

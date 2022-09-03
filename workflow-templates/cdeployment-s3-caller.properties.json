@@ -1,0 +1,11 @@
+{
+  "name": "Continuous Deployment Workflow for S3-apps deployments",
+  "description": "Build, test and push a package to Amazon S3 and deploy to CloudFront production environment.",
+  "iconName": "graasp-logo",
+  "categories": [
+      "Automation", "Deployment"
+  ],
+  "filePatterns": [
+      "package.json$"
+  ]
+}

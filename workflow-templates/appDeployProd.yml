@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       # default build directory
-      BUILD_FOLDER: "build/" 
+      BUILD_FOLDER: "build/"
       VERSION: "latest"
 
       # rename necessary variables used in the app
@@ -20,10 +20,10 @@ jobs:
       # REACT_APP_VERSION: "latest"
     steps:
     - name: Checkout
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Yarn Set Up
-      uses: actions/setup-node@v2
+      uses: actions/setup-node@v3
     - run: yarn install
     - run: yarn build
 

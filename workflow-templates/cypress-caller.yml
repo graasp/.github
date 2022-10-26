@@ -11,15 +11,15 @@ jobs:
   graasp-deploy-cypress-workflow:
     # Replace with repository name
     name: Cypress caller template
-    # Replace 'main' with the hash of a commit, so it points to an specific version of the reusable workflow that is used
+    # Replace 'main' with the hash of a commit or a version (i.e. v2.5.0), so it points to an specific version of the reusable workflow that is used
     # Reference reusable workflow file. Using the commit SHA is the safest for stability and security
-    uses: graasp/graasp-deploy/.github/workflows/cypress.yml@205854ec4a694f91284678b439e71754d7849c00
+    uses: graasp/graasp-deploy/.github/workflows/cypress.yml@main
     # Insert required inputs based on repository
     with:
       # Test values
       graasp-compose-host-test:
       graasp-authentication-host-test:
-      node-env-test: 
+      node-env-test:
       hidden-item-tag-id-test:
       public-tag-id-test:
       next-public-google-analytics-id-test:

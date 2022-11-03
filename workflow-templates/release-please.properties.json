@@ -1,0 +1,7 @@
+{
+  "name": "Release Please Workflow",
+  "description": "Manage package releases and versioning with automatic Changelogs and NPM publish.",
+  "iconName": "graasp-logo",
+  "categories": ["Automation", "Deployment", "Continuous integration"],
+  "filePatterns": ["package.json$"]
+}

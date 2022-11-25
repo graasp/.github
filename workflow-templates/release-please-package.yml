@@ -1,4 +1,5 @@
-name: release-please
+# automate relases for a library package
+name: Release new version
 
 # Control when the action will run
 on:
@@ -35,6 +36,6 @@ jobs:
       # This section is useful only if you plan on publishing your package to NPM
       # Remove it if you do not plan to publish to NPM
       - name: Publish to NPM
-        uses: graasp/graasp-deploy/.github/actions/publish-to-NPM@121-npm-publish-composite
+        uses: graasp/graasp-deploy/.github/actions/publish-to-NPM@v1
         if: ${{ steps.release.outputs.release_created }}
       # -------------------------------------------------------------------------

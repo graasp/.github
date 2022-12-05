@@ -1,0 +1,7 @@
+{
+  "name": "Release new App version Workflow",
+  "description": "Manage app releases and versioning with automatic changelogs.",
+  "iconName": "graasp-logo",
+  "categories": ["Automation", "Deployment", "Continuous integration"],
+  "filePatterns": ["package.json$"]
+}

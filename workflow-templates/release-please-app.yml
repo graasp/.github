@@ -1,5 +1,5 @@
 # Automate releases of new app versions
-name: release-please
+name: Release new app version
 
 on:
   push:

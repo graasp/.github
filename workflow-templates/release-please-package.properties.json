@@ -1,7 +1,7 @@
 {
-  "name": "Release new version Workflow",
+  "name": "Release new package version",
   "description": "Manage package releases and versioning with automatic changelogs and NPM publish.",
   "iconName": "graasp-logo",
-  "categories": ["Automation", "Deployment", "Continuous integration"],
+  "categories": ["Automation", "Deployment", "Continuous integration", "npm"],
   "filePatterns": ["package.json$"]
 }

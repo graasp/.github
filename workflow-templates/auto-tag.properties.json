@@ -1,0 +1,6 @@
+{
+  "name": "Auto-tag issues and PR with released version",
+  "description": "Workflow to handle tagging closed issues and merged PRs with 'un-released' tag.",
+  "iconName": "graasp-logo",
+  "categories": ["Typescript", "Javascript"]
+}

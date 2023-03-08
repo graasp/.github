@@ -1,0 +1,5 @@
+{
+  "name": "Auto-tag issues and pull requests",
+  "description": "Workflow to handle tagging closed issues and merged PRs with 'un-released' tag. Works in conjonction with release-please auto-tag step.",
+  "iconName": "graasp-logo"
+}

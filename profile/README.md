@@ -10,7 +10,7 @@ If you do not know programming you can still help us by **reporting bugs** and *
 
 ## Documentation
 
-We have [a documentation website](https://graasp.github.io/docs) where we publish content for developers (high level documentation, start-up guides, troubleshooting etc). This site s also where we publish [news and updates](https://graasp.github.io/docs/blog) in the form of blog posts. If you want to keep up to date, you can add our [RSS feed](https://graasp.github.io/docs/blog/rss.xml).
+We have [a documentation website](https://graasp.github.io/docs) where we publish content for developers (high level documentation, start-up guides, troubleshooting etc). This site is also where we publish [news and updates](https://graasp.github.io/docs/blog) in the form of blog posts. If you want to keep up to date, you can add our [RSS feed](https://graasp.github.io/docs/blog/rss.xml).
 
 ## Developing with us
 

@@ -6,7 +6,7 @@ You are here in our Github Organisation. This is where we develop the Graasp pla
 
 If you know programming and would like to help us by contributing some code please look at the open issues and mention the `@graasp/dev` to let us know you would like to tackle this issue. We primarily use Typescript and React.js.
 
-If you do not know programming you can still help us by **reporting bugs** and **proposing features** in our [Graasp Feedback Repo](https://github.com/graasp-feedback). We also are eager to hear about your experience on the platform. Do not hesitate to drop us an email at contact@graasp.org.
+If you do not know programming you can still help us by **reporting bugs** and **proposing features** in our [Graasp Feedback Repo](https://github.com/graasp/graasp-feedback). We also are eager to hear about your experience on the platform. Do not hesitate to drop us an email at contact@graasp.org.
 
 ## Documentation
 
